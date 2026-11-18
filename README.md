@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Julcyr 👋
 
-<!--
-**duizitdev/duizitdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support & Networks · Software Development Student · Exploring Backend, DevOps & Automation**
 
-Here are some ideas to get you started:
+I work in IT support and computer networks, solving practical problems and keeping systems running. I'm studying **Systems Analysis and Development** and expanding my skills in software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I value straightforward solutions, reliable systems, continuous learning, and getting things done.
+
+## 🔧 My background
+
+- **IT support:** troubleshooting, user support, and everyday technical operations.
+- **Networks & infrastructure:** understanding connectivity, systems, and how they fit together.
+- **Hands-on problem solving:** finding causes, documenting fixes, and improving processes.
+
+## 📚 What I'm learning
+
+- **Backend development:** applications, APIs, and maintainable code.
+- **Automation:** scripts and workflows that reduce repetitive work.
+- **DevOps:** development practices, tooling, and reliable delivery.
+- **Software engineering:** moving from theory to useful projects.
+
+## 🚀 Projects
+
+I'm building and studying privately for now. I'll publish projects here when they're ready to share.
+
+## 🤝 Let's connect
+
+I'm always interested in exchanging ideas about backend development, infrastructure, automation, and practical technology.
+
+---
+
+*Build. Learn. Improve. Repeat.*
